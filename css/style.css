@@ -44,11 +44,15 @@ main ul {
 }
 
 main p {
-  font-size: 0.875rem;
+  font-size: 1rem;
 }
 
 main > p {
   margin: 2.9375rem 0 2rem 0;
+}
+
+main span {
+  font-size: 55px;
 }
 
 a {

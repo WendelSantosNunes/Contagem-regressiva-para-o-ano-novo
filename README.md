@@ -32,6 +32,8 @@ E esse projeto pretende aprimora os conhecimentos adquirido durante os módulos:
 
 - [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
 
+- [O guia estelar de JavaScript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+
 ## :ringed_planet: **Desafio**
 
 ### Sobre o desafio:
@@ -40,8 +42,7 @@ E esse projeto pretende aprimora os conhecimentos adquirido durante os módulos:
 
 ### Requisito para o desafio:
 
-- Adicione uma imagem de perfil
-- Adicione uma lista de links que pode ser usada para enviar o usuário para outros sites
-- Opcional: Adicione ícones com links para outras redes sociais
-- **Dica:** para centralizar o conteúdo você pode adicionar um elemento (div) com uma largura fixa e depois adicionar `margin: 0 auto`
-- Você poderá usar como modelo o layout do Figma disponibilizado acima.
+- Para concluir o desafio você deve cumprir alguns requisitos:
+  1. A página deve ter um **countdown timer** com uma contagem regressiva para o tempo de lançamento.
+  2. Adicione um **botão** com o texto "inscreva-se".
+- Neste desafio você é livre para criar seu próprio layout ou pode usar o layout disponibilizado acima como base.

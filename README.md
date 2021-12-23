@@ -30,7 +30,7 @@ E esse projeto pretende aprimora os conhecimentos adquirido durante o módulo:
 
 - [O guia estelar de JavaScript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
 
-Obs: Esse é modulo 10 do curso
+Obs: Esse é o módulo 10 do curso.
 
 ## :ringed_planet: **Desafio**
 

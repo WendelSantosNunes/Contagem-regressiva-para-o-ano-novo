@@ -18,7 +18,7 @@ function starTimer(day, duration, display) {
 
     if (--seconds < 0) {
       --minutes
-      seconds = 2
+      seconds = 60
       if (minutes < 0) {
         minutes = 10
         --hours

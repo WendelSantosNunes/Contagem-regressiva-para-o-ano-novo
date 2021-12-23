@@ -26,13 +26,11 @@ Neste link vai ter o layout básico da rocketseat e um layout com alguns modific
 
 O projeto foi desenvolvido durante o curso Discover ​da Rocketseat.
 
-E esse projeto pretende aprimora os conhecimentos adquirido durante os módulos:
-
-- [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
-
-- [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
+E esse projeto pretende aprimora os conhecimentos adquirido durante o módulo:
 
 - [O guia estelar de JavaScript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+
+Obs: Esse é modulo 10 do curso
 
 ## :ringed_planet: **Desafio**
 
